@@ -50,7 +50,7 @@ source venv/bin/activate
 ### 2. 克隆仓库与安装依赖
 ```bash
 # 克隆仓库
-git clone https://github.com/<your-username>/auto-data-agent.git
+git clone https://github.com/daynew111/auto-data-agent.git
 cd auto-data-agent
 
 # 安装依赖
